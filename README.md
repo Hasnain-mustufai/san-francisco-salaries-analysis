@@ -22,11 +22,40 @@ Le résultat final est un dashboard interactif permettant d’explorer les poste
 4. Analyses SQL avancées (vues, agrégations, window functions)
 5. Dashboard Power BI (KPI + visualisations)
 
-Le résultat final est un dashboard interactif permettant d’explorer les postes, les salaires, les avantages et les tendances annuelles.
-## Dashboard Power BI 
+# 🧠 Résumé de l’analyse (court et structuré)
+Mon travail d’analyse se divise en trois grands blocs, correspondant aux étapes essentielles d’un pipeline Data :   
+🟩 Bloc 1 — Analyse Python (3 phases)
+Phase 1 — EDA initiale  
+Compréhension du dataset, détection des anomalies, valeurs manquantes, doublons, et renommage des colonnes pour une meilleure lisibilité.
 
-Le fichier Power BI  :
-- les postes les plus fréquents
-- les salaires les plus élevés
-- l’évolution annuelle des salaires
-- les avantages par poste
+Phase 2 — Data Wrangling  
+Nettoyage complet : correction des types, suppression des colonnes inutiles, harmonisation des valeurs, traduction des postes et colonnes, préparation du dataset.
+
+Phase 3 — EDA avancée  
+Analyse des postes les plus fréquents, salaires les plus élevés, outliers, avantages, corrélations.
+Le dataset final est ensuite envoyé dans ma base de données (MySQL) pour la suite du pipeline.
+
+🟦 Bloc 2 — Analyses SQL (3 phases)
+1. Exploration SQL.
+Vérification de la structure, qualité des données, cohérence des valeurs.
+
+2. Analyses métier.  
+Top postes, salaires moyens, avantages, windows functions classements, tendances annuelles.
+
+3. SQL avancé.  
+vues optimisées pour  Power BI.
+
+🟧 Bloc 3 — Dashboard Power BI
+Le fichier Power BI permet de visualiser clairement :
+
+* les postes les plus fréquents
+
+* les postes les mieux rémunérés
+
+* l’évolution annuelle des salaires
+
+* les avantages moyens par poste
+
+* les KPI clés (nombre de postes, employés, salaire moyen, salaire total)
+Le résultat final est un dashboard interactif permettant d’explorer les postes, les salaires, les avantages et les tendances annuelles.
+
