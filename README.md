@@ -42,12 +42,12 @@ Vérification de la structure, qualité des données, cohérence des valeurs.
 2. Analyses métier.  
 Top postes, salaires moyens, avantages, windows functions classements, tendances annuelles.
 
-3. SQL avancé.  
-vues optimisées pour  Power BI.
+3. SQL VIEWS.  
+créations des vues pour  Power BI.
 
 🟧 Bloc 3 — Dashboard Power BI
 Le fichier Power BI permet de visualiser clairement :
-
+* mesure dax utiliser 
 * les postes les plus fréquents
 
 * les postes les mieux rémunérés
