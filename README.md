@@ -2,6 +2,11 @@
 
 ## Pipeline Data Analyst : Python → MySQL → SQL → Power BI
 
+![Aperçu du Dashboard Power BI]()<img width="1482" height="811" alt="dashbord" src="https://github.com/user-attachments/assets/71566cc7-d065-4d8e-b2eb-145c57db711b" />
+
+
+
+
 # 🧩 Présentation du projet
 Ce projet analyse les salaires publics de la ville de San Francisco (USA) à partir d’un dataset récuperer sur un site.
 L’objectif est de construire un pipeline complet de Data Analyst :
@@ -57,5 +62,5 @@ Le fichier Power BI permet de visualiser clairement :
 * les avantages moyens par poste
 
 * les KPI clés (nombre de postes, employés, salaire moyen, salaire total)
-Le résultat final est un dashboard interactif permettant d’explorer les postes, les salaires, les avantages et les tendances annuelles.
+
 
