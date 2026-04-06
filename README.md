@@ -2,7 +2,8 @@
 
 ## Pipeline Data Analyst : Python → MySQL → SQL → Power BI
 
-![Aperçu du Dashboard Power BI]()<img width="1482" height="811" alt="dashbord" src="https://github.com/user-attachments/assets/71566cc7-d065-4d8e-b2eb-145c57db711b" />
+![Aperçu du Dashboard Power BI]()<img width="1511" height="808" alt="image" src="https://github.com/user-attachments/assets/f985f732-3904-4530-aafc-5e3c9127862c" />
+
 
 
 
